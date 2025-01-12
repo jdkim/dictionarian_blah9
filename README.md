@@ -1,12 +1,12 @@
 # Dictionarian Application and Extension
 
-## Dictionarian
+## About Dictionarian
 - A project which began at BLAH8
   - *BioMedical Content Explorer* at that time
 - A chat interface to utilize dictionaries.
 - Implemented as a customized GPT, a.k.a. GPTS
 - Access [PubDictionaries](https://pubdictionaries.org/) for dictionary resources. 
-- Current state: anyone with the [link](https://chatgpt.com/g/g-6747c97a8bbc8191bde84c9c155c5e5f-dictionarian) can test it.
+- Current state: anyone with the [link](https://chatgpt.com/g/g-6747c97a8bbc8191bde84c9c155c5e5f-dictionarian) can use it. (Not in the GPT store yet)
 
 ## Example Usage
 <details>
@@ -32,9 +32,8 @@
 
 ## During BLAH9
 
-### To Apply Dictionarian for annotation projects
-
-- HP Annotation
-- Plant Annotation
-
-### To find and fill the gaps
+- To Apply Dictionarian for annotation projects
+  - HP Annotation
+  - Plant Annotation
+- Tp extend the scenario to include PubAnnotation for storage of annotation.
+- To find and fill other gaps when found necessary.
